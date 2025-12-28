@@ -99,7 +99,13 @@ Useful for management-level insights and performance benchmarking.
 - Data-driven optimization of logistics routes
 
 ---
+## Use case
+- Logistics & courier network optimization
+- Operations and supply-chain analytics
+- Data analyst / data engineer case study
 
+Real-world JSON data processing demonstration
+---
 ##  How to Run
 
 ```bash
